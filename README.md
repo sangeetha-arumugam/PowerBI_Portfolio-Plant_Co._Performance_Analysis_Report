@@ -1,6 +1,6 @@
 # Plant Co. Performance Analysis Report 
 
-![Alternative Text](assets/images/Findings Q4.png)
+![Alternative Text](assets/images/Findings Q5.png)
 
 ## Introduction
 This Power BI project is centered on analyzing the business performance of Plant Co. for the year 2024, specifically focusing on key metrics such as sales, quantity, and gross profit. Through comprehensive data cleaning, transformation, and the creation of dynamic visualizations, the project aims to provide a detailed view of the company's financial and operational outcomes. By leveraging advanced measures and calculated columns, the analysis offers a comparative assessment of year-to-date (YTD) and previous year-to-date (PYTD) performance, enabling Plant Co. to gain valuable insights into its business trends and performance.
